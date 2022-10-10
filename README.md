@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💭 Constantemente aprendendo coisas novas<br>🎓 Estudando Engenharia da Computação na Univesp<br>🌱 Atualmente aprendendo mais sobre Haskell e tecnologias mobile<br>🤖 Desenvolvo projetos que usam machine learning</p>
+<p align="left">💭 Constantemente aprendendo coisas novas<br>🎓 Estudando Engenharia da Computação na Univesp<br>🌱 Atualmente aprendendo mais sobre Haskell e tecnologias mobile<br>🤖 Desenvolvo projetos que usam machine learning<br>📝 Eu escrevo artigos no Medium: https://medium.com/@jvsavietto6</p>
 
 ###
 
